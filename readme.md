@@ -2,7 +2,7 @@
 
 
 ## I'm a Fullstack Developer!!!
-- 👨‍💻 I'm currently working on Digital Health Interoperability in Nigeria
+- 👨‍💻 I'm currently working on Digital Health Interoperability(Blockchain) in Nigeria
 - 👯 I’m a good team player
 - 🌱 always learning❗
 - 🥅 2022 Goals: Learn more about Hyperledger fabric
