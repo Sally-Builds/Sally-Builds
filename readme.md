@@ -11,6 +11,14 @@
 </h1>
 </div>
 
+## Solving Problems, One Quirk at a Time
+
+I'm a problem-solving enthusiast who thrives on turning ideas into impactful solutions. if it needs building, automating, or blockchain-ing, I’m your go-to. From whipping up insurance aggregators to creating blockchain voting systems, I’ve been the architect behind some pretty cool (and occasionally chaotic) projects.
+
+When I’m not wrestling with APIs or convincing computers to behave, I’m probably daydreaming about ways to outsmart them. My mantra? “If it’s broken, I’ll fix it. If it’s not broken, I’ll make it better—and probably add a feature or two for fun. 🌚”
+
+Got a wild idea or a project that needs a touch of brilliance (and maybe a sprinkle of madness)? Hit me up—let’s create something unforgettable together!
+
 ## Projects Summary:
 
 The projects listed here showcase some of the work I’ve done over the years, highlighting my passion for solving problems and building impactful solutions. Feel free to explore the code repositories and project details. If you’re interested in collaborating or have any questions, don’t hesitate to reach out—I’d love to connect and work on exciting ideas together!
